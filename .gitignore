@@ -1,0 +1,4 @@
+# AI 學習報告
+*.log
+.env
+config.local.json
