@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "skills": {
+    "using-superpowers-0-1-0": {
+      "version": "1.0.0",
+      "installedAt": 1773858580621
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773863643806
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773866583413
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773866592016
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773866607507
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773866641339
+    },
+    "skill-finder-cn": {
+      "version": "1.0.0",
+      "installedAt": 1773866655581
+    },
+    "skill-builder": {
+      "version": "1.0.5",
+      "installedAt": 1773866668842
+    },
+    "adaptive-reasoning": {
+      "version": "1.0.0",
+      "installedAt": 1774015322393
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774016459534
+    },
+    "agent-autopilot": {
+      "version": "1.4.1",
+      "installedAt": 1774018516835
+    },
+    "diagram-generator": {
+      "version": "1.1.1",
+      "installedAt": 1774018523521
+    },
+    "credential-manager": {
+      "version": "1.3.0",
+      "installedAt": 1774018530337
+    },
+    "evolver": {
+      "version": "1.32.4",
+      "installedAt": 1774018540677
+    },
+    "agent-memory": {
+      "version": "1.0.0",
+      "installedAt": 1774016881856
+    },
+    "productivity": {
+      "version": "1.0.4",
+      "installedAt": 1774017256463
+    },
+    "context-driven-development": {
+      "version": "1.0.0",
+      "installedAt": 1774017261085
+    },
+    "task-development-workflow": {
+      "version": "1.0.0",
+      "installedAt": 1774017265128
+    },
+    "developer-agent": {
+      "version": "1.0.0",
+      "installedAt": 1774017270028
+    },
+    "rescuetime": {
+      "version": "1.0.0",
+      "installedAt": 1774017274189
+    },
+    "time-management-2": {
+      "version": "0.1.0",
+      "installedAt": 1774017278906
+    },
+    "image-labeler": {
+      "version": "2.0.0",
+      "installedAt": 1774017283514
+    },
+    "ai-productivity-audit": {
+      "version": "1.1.0",
+      "installedAt": 1774017288183
+    },
+    "todo-management": {
+      "version": "1.1.3",
+      "installedAt": 1774018108976
+    },
+    "git-notes-memory": {
+      "version": "1.0.0",
+      "installedAt": 1774018378150
+    },
+    "openclaw-github-assistant": {
+      "version": "2.0.1",
+      "installedAt": 1774018384099
+    }
+  }
+}
