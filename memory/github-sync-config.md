@@ -23,10 +23,12 @@
 ## ⚙️ 配置設置
 
 ### GitHub 倉庫設置
+- **用戶**: s0968395504-lab
+- **現有倉庫**: ai-learning-daily
+- **用途**: 記憶同步目標
 ```bash
-# 創建專門的記憶倉庫
-git init memory-repo
-git remote add origin https://github.com/s0968395504-lab/openclaw-memory.git
+# 記憶同步目標
+git remote add origin https://github.com/s0968395504-lab/ai-learning-daily.git
 ```
 
 ### 環境變數
